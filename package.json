@@ -1,0 +1,19 @@
+{
+  "name": "fauna",
+  "version": "1.0.0",
+  "description": "Fauna is a distributed document-relational database delivered as a cloud API. Build new or migrate existing applications to Fauna and scale without worrying about operations.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^7.3.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "faunadb": "^4.6.0"
+  }
+}
